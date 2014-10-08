@@ -45,3 +45,6 @@ module.exports = {
   }
 
 };
+
+// psql -d jsi-bookshelf
+// \c "jsi-bookshelf"
